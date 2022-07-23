@@ -35,7 +35,7 @@ GEM
       json (>= 2.3.0)
       minitest (~> 5.1)
       thread_safe (~> 0.3, >= 0.3.4)
-      tzinfo (~> 1.1)
+      tzinfo (~> 1.2.10)
     arel (6.0.4)
     binding_of_caller (0.8.0)
       debug_inspector (>= 0.0.1)
